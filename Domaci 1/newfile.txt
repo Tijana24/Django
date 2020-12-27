@@ -1,0 +1,4 @@
+ "Student:" Marko Markovic "Godine:" 24 "Kurs:" OS "Ocjena:" 7 
+ "Student:" Petar Petrovic "Godine:" 22 "Kurs:" Matematika "Ocjena:" 6 
+ "Profesor: "Milos Dakovic "Godine:" 55 "KUrs:" Baze podataka "Opterecenje:" 3 
+ "Profesor: "Igor Djurovic "Godine:" 55 "KUrs:" DOS "Opterecenje:" 3
