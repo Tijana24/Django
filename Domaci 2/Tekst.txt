@@ -1,0 +1,15 @@
+Angažovani ste od strane univerziteta da napravite bazu podataka o profesorima,
+studentima, itd. Za svakog profesora poznati su JMBG, ime, godine, zvanje i specijalnost
+istraživanja. Projekti imaju broj projekta, ime sponzora, datume početka i kraja rada na
+projektu, kao i budžet. Studenti postdiplomci imaju JMBG, ime, starost, kao i naziv
+usmjerenja (recimo, doktorske studije, magistarske, itd.). Svaki projekat vodi tačno jedan
+profesor, dok jedan ili više profesora rade na nekom projektu. Naravno, jedan profesor
+može voditi više projekata, kao i raditi na njima. Na svakom projektu radi jedan ili više
+postdiplomaca. Kada postdiplomac radi na nekom projektu, on ima jednog profesora kao
+mentora za taj konkretni projekat, koji prati njegov rad. Fakulteti imaju naziv i broj
+kancelarije dekanata. Fakulteti su u raznim zgradama, koje imaju adresu i jedinstvenu
+oznaku. U jednoj zgradi može biti više fakulteta. Fakultet ima dekana, koji njime rukovodi.
+Profesor radi na jednom ili više fakulteta, za svaki fakultet na kom radi zna se fond časova
+koji ima. Postdiplomci studiraju na jednom fakultetu. Svaki postdiplomac ima jednog
+starijeg postdiplomca (savjetnika) koji mu pomaže u radu. Projekti mogu biti obični ili
+specijalni (oni moraju imati još jednog profesora kao supervizora).
